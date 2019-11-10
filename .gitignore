@@ -6,3 +6,5 @@ links_small.csv
 movies_metadata.csv
 ratings.csv
 ratings_small.csv
+pca_allgenres.csv
+tsne_allgenres.csv
