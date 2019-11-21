@@ -11,4 +11,4 @@ pca_allgenres.csv
 tsne_allgenres.csv
 regressionPreprocessing_beforeEncoding.csv
 clusterPreprocessing.csv
-.ipynb_checkpoints/ClusterExperiments-checkpoint.ipynb
+.ipynb_checkpoints\
